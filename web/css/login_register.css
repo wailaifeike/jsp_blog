@@ -1,0 +1,24 @@
+.login_title{
+    text-align: center;
+
+}
+
+.regist_title{
+    text-align: center;
+
+}
+
+.login_main{
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+}
+.regist_main{
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+}
+
+/*.form-horizontal{*/
+    /*ma*/
+/*}*/

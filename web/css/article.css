@@ -1,0 +1,25 @@
+.article{
+    width: 750px;
+    margin: 10px auto;
+     padding: 20px;
+}
+.form-artilce{
+    text-align: right;
+}
+ke-container ke-container-default{
+    margin-left: 12px;
+}
+
+.main-article{
+    background-color: #ffffff;
+    margin-left: 425px;
+    width: 1000px;
+}
+.item-group{
+    margin: 5px -7px;
+}
+.bottom-btn{
+    height: 70px;
+    margin-bottom: 10px;
+    text-align: right;
+}

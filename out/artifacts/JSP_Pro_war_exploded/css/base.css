@@ -1,0 +1,25 @@
+body{
+    background-color: #f3f3f3;
+}
+
+.navbar-brand img{
+    width: 100px;
+    height: 45px;
+    line-height:50px ;
+    position: absolute;
+    top: 2px;
+    left: 280px;
+}
+.main{
+    width: 1410px;
+    margin-top: 50px;
+    margin-left:50px ;
+    background-color: #ffffff;
+}
+a{
+    color: #249
+}
+.artilce-list{
+    width: 1000px;
+}
+

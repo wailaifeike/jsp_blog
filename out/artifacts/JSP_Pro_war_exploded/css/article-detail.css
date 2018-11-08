@@ -1,0 +1,130 @@
+.detail{
+  width: 800px;
+  /*background-color: #f5f5f5;*/
+  margin: 10px auto;
+  padding: 10px;
+
+}
+.detail-title{
+    /*font-size: 30px;*/
+    margin: 10px auto;
+    text-align: center;
+    font-size: 15px;
+
+}
+#commentform_title {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 6px 12px;
+    display: inline-block;
+    background: unset;
+    background-color: #0681ba;
+}
+
+hr{
+    color: #0681ba;
+}
+
+.nickname{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.commentbox_title {
+    width: 450px;
+}
+.comment-detail{
+    width:730px;
+    margin: 10px auto;
+}
+
+.comment-list{
+    width: 830px;
+    margin: 20px auto;
+}
+
+.answer-list-ul li{
+    list-style: none;
+    border-bottom: 1px solid #eee;
+}
+
+.comment_textarea{
+    width: 450px;
+    height: 300px;
+    font-size: 13px;
+    border: 1px solid #ccc;
+    font-family: 'PingFang SC','Helvetica Neue','Helvetica','Arial',sans-serif;
+}
+
+#div_digg {
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    font-size: 12px;
+    width: 125px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.diggit {
+    float: left;
+    width: 46px;
+    height: 52px;
+    background: url(../imgs/upup.gif) no-repeat;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 2px;
+    padding-top: 5px;
+}
+
+.buryit {
+    float: right;
+    margin-left: 20px;
+    width: 46px;
+    height: 52px;
+    background: url(../imgs/downdown.gif) no-repeat;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 2px;
+    padding-top: 5px;
+}
+
+.diggnum {
+    font-size: 14px;
+    color: #075db3;
+    font-family: Verdana;
+}
+
+.burynum {
+    font-size: 14px;
+    color: #075db3;
+    font-family: Verdana;
+}
+
+.comment-avtar img{
+    float: left;
+    width: 50px;
+    height: 50px;
+    /*border-radius: 50%;*/
+    margin-top:20px;
+}
+
+.comment-main{
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.comment-main .username{
+    margin-left: 20px;
+}
+.createtime{
+    float: right;
+}
+.comment-text{
+    margin-left: 70px;
+}
